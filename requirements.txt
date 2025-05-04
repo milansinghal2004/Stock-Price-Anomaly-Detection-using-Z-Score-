@@ -1,0 +1,6 @@
+pandas
+yfinance
+prophet
+matplotlib
+tkcalendar
+scipy
