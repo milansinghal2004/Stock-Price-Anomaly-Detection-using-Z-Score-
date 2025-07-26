@@ -7,7 +7,7 @@ A Python-based GUI application for predicting stock prices using historical data
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
+- [Troubleshooting](#troubleshooting) 
 - [Limitations](#limitations)
 - [Contributing](#contributing)
 - [License](#license)
